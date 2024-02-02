@@ -1,0 +1,11 @@
+Model Information:
+* title:	Isengard
+* source:	https://sketchfab.com/3d-models/isengard-7c674181195940e3a369018b52756bde
+* author:	Andremo (https://sketchfab.com/andremo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Isengard" (https://sketchfab.com/3d-models/isengard-7c674181195940e3a369018b52756bde) by Andremo (https://sketchfab.com/andremo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
